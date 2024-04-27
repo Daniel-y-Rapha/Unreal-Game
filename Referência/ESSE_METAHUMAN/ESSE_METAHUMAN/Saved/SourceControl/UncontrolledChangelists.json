@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ZGAMES/Desktop/ESSE_METAHUMAN/ESSE_METAHUMAN/Content/ThirdPerson/Blueprints/BP_Th.uasset",
+				"C:/Users/ZGAMES/Desktop/ESSE_METAHUMAN/ESSE_METAHUMAN/Content/ThirdPerson/Blueprints/BP_Patricia.uasset",
+				"C:/Users/ZGAMES/Desktop/ESSE_METAHUMAN/ESSE_METAHUMAN/Content/ThirdPerson/Blueprints/ABP_Player.uasset",
+				"C:/Users/ZGAMES/Desktop/ESSE_METAHUMAN/ESSE_METAHUMAN/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ZGAMES/Desktop/ESSE_METAHUMAN/ESSE_METAHUMAN/Content/ThirdPerson/Blueprints/Personagem/Animacoes/Stand_To_Roll_Montage.uasset",
+				"C:/Users/ZGAMES/Desktop/ESSE_METAHUMAN/ESSE_METAHUMAN/Content/ThirdPerson/Blueprints/Personagem/Animacoes/Reaction_Montage.uasset",
+				"C:/Users/ZGAMES/Desktop/ESSE_METAHUMAN/ESSE_METAHUMAN/Content/ThirdPerson/Blueprints/Personagem/Animacoes/Punching_Montage.uasset",
+				"C:/Users/ZGAMES/Desktop/ESSE_METAHUMAN/ESSE_METAHUMAN/Content/ThirdPerson/Blueprints/Personagem/Animacoes/Stand_To_Roll.uasset",
+				"C:/Users/ZGAMES/Desktop/ESSE_METAHUMAN/ESSE_METAHUMAN/Content/ThirdPerson/Blueprints/Personagem/Animacoes/Reaction.uasset",
+				"C:/Users/ZGAMES/Desktop/ESSE_METAHUMAN/ESSE_METAHUMAN/Content/ThirdPerson/Blueprints/Personagem/Animacoes/Punching.uasset",
+				"C:/Users/ZGAMES/Desktop/ESSE_METAHUMAN/ESSE_METAHUMAN/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/S6/6NU3XFEFDSYPFZHK29AY1T.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/AQUELE_METAHUMAN/ESSE_METAHUMAN/Content/ThirdPerson/Blueprints/ABP_Player.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Animacoes/BS_IdleRun.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Animacoes/OutroBlendSpace.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Animacoes/BS_CrouchWalk.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/baseColor.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/baseColor_001.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/baseColor_002.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/baseColor_003.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Boneco.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Boneco_PhysicsAsset.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Boneco_Skeleton.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Animacoes/Crouch_Walk_Forward.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Animacoes/Crouching_Idle.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/hair-72-N.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Animacoes/Idle.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/jacket-puffed-02-gasoline_D.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/jacket-puffed-02-gasoline_N.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Animacoes/Jump.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/pants-casual-01-black-C.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/pants-casual-01-N.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Animacoes/Run.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Animacoes/Walking.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Wolf3D_Body.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Wolf3D_Eye.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Wolf3D_Hair.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Wolf3D_Outfit_Bottom.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Wolf3D_Outfit_Footwear.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Wolf3D_Outfit_Top.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Wolf3D_Skin.uasset",
+				"C:/Users/ZGAMES/Desktop/SS_P1/S73B/Meta/S163B/Content/ThirdPerson/Blueprints/Personagem/Wolf3D_Teeth.uasset"
+			]
+		}
+	]
+}
